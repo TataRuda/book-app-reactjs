@@ -17,6 +17,7 @@ git clone https://github.com/TataRuda/book-app-reactjs.git
 
 Install dependencies:
 cd frontend
+
 npm install
 
 Start the development server:
@@ -24,6 +25,7 @@ npm start
 
 Install dependencies:
 cd api
+
 npm install
 
 Start the development server:
